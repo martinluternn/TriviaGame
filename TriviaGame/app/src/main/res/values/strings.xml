@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Trivia Game</string>
+
+    <string name="error_session_token_not_found">Click (REQUEST SESSION) button first!</string>
+    <string name="error_koneksi_internet">Internet connection problem!</string>
+
+    <string name="error_no_result">Could not return results. The API doesn\'t have enough questions for your query.</string>
+    <string name="error_invalid_parameter">Arguments passed in aren\'t valid.</string>
+    <string name="error_token_session">Session Token does not exist.</string>
+    <string name="error_token_session_need_reset">Session Token has returned all possible questions for the specified query. Resetting the Token is necessary.</string>
+    <string name="error_general">Something went wrong!</string>
+
+    <string name="txt_question_no">Question no. %d</string>
+    <string name="txt_right_answers">%d Right Answer</string>
+
+    <string name="correct_answer">Correct Answer</string>
+    <string name="wrong_answer">Wrong Answer!</string>
+
+    <string name="select_category">Select Category</string>
+
+    <string name="request_session_success">Success get your session!</string>
+    <string name="reset_session_success">Success reset your session!</string>
+    <string name="no_selected_answer">Please choose the best answer first!</string>
+
+    <string name="txt_btn_finish">FINISH GAME</string>
+    <string name="txt_btn_lanjut">NEXT</string>
+    <string name="txt_btn_request_token">REQUEST SESSION</string>
+    <string name="txt_btn_reset_token">RESET SESSION</string>
+    <string name="txt_btn_start">START</string>
+
+    <string name="txt_btn_ulangi">BRING IT ON</string>
+    <string name="txt_btn_keluar">NOPE, BYE!</string>
+    <string name="txt_btn_yes">REALLY REALLY SURE</string>
+    <string name="txt_btn_no">NOT SURE</string>
+
+    <string name="txt_loading">WAIT A MINUTE</string>
+
+    <string name="title_backbtn_exit">Click BACK to exit the app!</string>
+    <string name="txt_exit_game">Are you sure to quit, and leave me alone with this non-sense?</string>
+    <string name="txt_result_game">Congratulations! you finish this <b>%1$s</b> level challenge, with score: <b>%2$.0f/%3$d</b>. Want to play again?</string>
+</resources>
